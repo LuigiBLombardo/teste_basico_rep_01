@@ -6,7 +6,7 @@ def subtracao(a, b):
 
 def multiplicacao(a, b):
     return a * b
-
+#modificado com novo parametro
 def divisao(a, b):
     if b != 0:
         return a / b
